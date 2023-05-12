@@ -42,7 +42,7 @@
     <key>NSMainNibFile</key>
     <string>MainMenu</string>
     <key>NSMicrophoneUsageDescription</key>
-    <string> microphone</string>
+    <string>microphone</string>
     <key>NSPrincipalClass</key>
     <string>PlayerApplication</string>
     <key>UnityBuildNumber</key>
